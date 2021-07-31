@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**nicollaslopes/nicollaslopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                     ,----------------,              ,---------,
+                ,-----------------------,          ,"        ,"|
+              ,"                     ," |        ,"        ,"  |
+             +-----------------------+  |      ,"        ,"    |
+             |  .-----------------Z  |  |     +---------+      |
+             |  |               Z |  |  |     | -==----'|      |
+             |  |   ︶    ︶  z    |  |  |     |         |      |
+             |  |       -         |  |  |/----| ==== oo |      |
+             |  |                 |  |  |   ,/| ((((    |    ,"
+             |  `-----------------'  |," .;'/ | ((((    |  ,"
+             +-----------------------+  ;;  | |         |,"     
+                /_)______________(_/  //'   | +---------+
+           ___________________________/___  `,
+          /  oooooooooooooooo  .o.  oooo /    \,"---------
+         / ==ooooooooooooooo==.o.  ooo= /    ,`\--{-D)  ,"
+         `-----------------------------'    '----------"
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/nicollaslopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollaslopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollaslopes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
