@@ -10,10 +10,10 @@
  </div>
  
 ## Links
-aaa
 
 <p align="center" style="background:yellow">
  <a href="https://www.linkedin.com/in/nicollas-lopes-1938601b4/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-nicollas-lopes-1938601b4-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a>
 </p>
  
 <p align="center">
