@@ -10,8 +10,9 @@
 </div>
 
 <p align="center" style="background:yellow">
-<a href="https://www.linkedin.com/in/nicollas-lopes-1938601b4/" target="_blank">
-
+ <a href="https://www.linkedin.com/in/nicollas-lopes-1938601b4/" target="_blank">
+</p>
+ 
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollaslopes&layout=compact&langs_count=7&theme=dracula"/>
 </p>
