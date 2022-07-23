@@ -9,12 +9,6 @@
 
  </div>
  
-## Links
-
-<p align="center" style="background:yellow">
- <a href="https://www.linkedin.com/in/nicollas-lopes-1938601b4/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-nicollas-lopes-1938601b4-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a>
-</p>
  
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollaslopes&layout=compact&langs_count=7&theme=dracula"/>
