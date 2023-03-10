@@ -1,13 +1,16 @@
  ### Hi there 👋
  
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning Laravel, Javascript, Design Patterns, SOLID and Clean architecture.
-- 💬 Ask me about **php**, **laravel**, **php**, **javascript**, **docker** or anything else
+- 🌱 I’m currently learning **Laravel**, **Javascript**, **Design Patterns**, **SOLID** and **Clean architecture**.
+<!-- - 💬 Ask me about **php**, **laravel**, **php**, **javascript**, **docker** or anything else -->
+
+##
 
 <a href="[https://www.linkedin.com/in/souza5b74a121](https://www.linkedin.com/in/nicollas-lopes/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!-- - 📫 How to reach me: [Linkedin](https://linkedin.com/in/yvescabral) or [email](mailto:yvescabral16@gmail.com) -->
 
-## 🛠 &nbsp;Tech Stack
+## 
+
+🛠 &nbsp;Tech Stack
 
 <div align='center'>
 
