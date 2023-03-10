@@ -1,7 +1,5 @@
  ### Hi there 👋
  
- ### Hi there 👋
-
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning Laravel, Javascript, Design Patterns, SOLID and Clean architecture.
 - 💬 Ask me about **php**, **laravel**, **php**, **javascript**, **docker** or anything else
