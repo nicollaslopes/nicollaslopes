@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-## 🛠 &nbsp;Tech Stack
+<!-- ## 🛠 &nbsp;Tech Stack
 
 <div align='center'>
 
@@ -9,3 +9,4 @@
  </div>
  
 
+ -->
