@@ -1,8 +1,7 @@
  ### Hi there 👋
- 
+ <!--
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning **Laravel**, **Javascript**, **Design Patterns** and **SOLID**.
-<!-- - 💬 Ask me about **php**, **laravel**, **php**, **javascript**, **docker** or anything else -->
 
 ##
 <a href="https://www.linkedin.com/in/nicollas-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -17,5 +16,5 @@
 
  </div>
  
-
+-->
 
