@@ -1,20 +1,4 @@
  ### Hi there 👋
-
-<div align='center'>
- 
- / "I'm trying to free your mind, Neo. But \
-| I can only show you the door. You're    |
-| the one that has to walk through it."   |
-\ (Morpheus, Matrix)                      /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-</div>
-
  <!--
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning **Laravel**, **Javascript**, **Design Patterns** and **SOLID**.
