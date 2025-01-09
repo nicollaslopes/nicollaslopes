@@ -1,7 +1,6 @@
  ### Hi there 👋
 
-<div style="text-align: right;">
-
+```
  _________________________________________
 /                                         \
 |             Hi there!                   |
@@ -13,7 +12,7 @@
                 ||----w |
                 ||     ||
 
-</div>
+```
 
  <!--
 - 🔭 I’m currently working on my personal projects.
