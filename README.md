@@ -1,11 +1,11 @@
  ### Hi there 👋
 
+<div style="text-align: right;">
  ```
  _________________________________________
-/ "I'm trying to free your mind, Neo. But \
-| I can only show you the door. You're    |
-| the one that has to walk through it."   |
-\ (Morpheus, Matrix)                      /
+/                                         \
+|             Hi there!                   |
+\                                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -14,6 +14,7 @@
                 ||     ||
 
 ```
+</div>
 
  <!--
 - 🔭 I’m currently working on my personal projects.
