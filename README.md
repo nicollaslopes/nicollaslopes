@@ -1,16 +1,5 @@
-```
- ______________________________
-/                              \
-|          Hi there! 👋        |
-\                              /
- ------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+### Hi there! 👋
 
-```
 ## Public information
 
 My name is Nicollas and I work as a Web Developer. 
