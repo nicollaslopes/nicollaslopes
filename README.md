@@ -15,7 +15,7 @@
 
 My name is Nicollas and I work as a Web Developer. 
 
-I'm currently focusing on improve my backend knowledge, so I've created a <a target="_blank" href="https://nicollaslopes.gitbook.io/backend_roadmap">Portfolio</a> to put all my notes in.
+I'm currently focusing on improve my backend knowledge, so I've created a <a target='_blank' href="https://nicollaslopes.gitbook.io/backend_roadmap">Backend Roadmap Portfolio</a> to put all my notes in.
 
 ## Detailed Information
 
